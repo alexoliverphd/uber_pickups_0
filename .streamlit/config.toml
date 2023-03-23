@@ -1,4 +1,8 @@
 [theme]
 
-base = "light"
+primaryColor = "pink"
+backgroundColor = "LightGray"
+secondaryBackgroundColor = "DarkGray"
+textColor = "Black"
 font = "serif"
+
