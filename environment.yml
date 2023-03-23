@@ -1,0 +1,5 @@
+name: uber_pickups
+dependencies:
+    - numpy
+    - pandas
+    - streamlit
