@@ -1,8 +1,8 @@
 [theme]
 
-primaryColor = "pink"
+primaryColor = "purple"
 backgroundColor = "LightGray"
-secondaryBackgroundColor = "DarkGray"
+secondaryBackgroundColor = "Purple"
 textColor = "Black"
 font = "serif"
 
